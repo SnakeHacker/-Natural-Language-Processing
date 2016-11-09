@@ -1,7 +1,7 @@
 # 自然语言处理NLP
 
 ## 主要内容
-   
+- [前言](#preparation) 
 - [课程列表](#curriculum)
 - [推荐学习路线](#learning_route)
  - [数学基础初级](#math_basic)
@@ -10,6 +10,9 @@
  - [自然语言处理中级](#nlp_median)
  
 - [自然语言处理专项领域学习](#special_learning)
+
+##<h2 id="preparation">前言</h2>
+   我们要求把这些课程的所有Notes,Slides以及作者强烈推荐的论文看懂看明白，并完成所有的老师布置的习题，而推荐的书籍是不做要求的，如果有些书籍是需要看完的，我们会进行额外的说明。
 
 ##<h2 id="curriculum">课程列表</h2>
 
@@ -25,10 +28,7 @@
 [自然语言处理初级1](https://suclass.stanford.edu/courses/Engineering/CS224N/Fall2015/about)| |[Speech and Language Processing](https://www.amazon.de/o/ASIN/0131873210/) | [链接](http://www.stanford.edu/class/cs224n/syllabus.shtml)
 [自然语言处理初级2](http://www.cs.columbia.edu/~cs4705/)| Columbia | 暂无 |  [链接](http://www.cs.columbia.edu/~cs4705/)
 [深度学习用于自然语言处理](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_&index=1)| Stanford |暂无 |[链接](http://cs224d.stanford.edu/syllabus.html)
-
-
 Python程序语言设计| 暂无 | 暂无 | 暂无
-Matlab程序语言设计| 暂无 | 暂无 | 暂无
 
 ##<h2 id="learning_route">推荐学习路线</h2>
 ###<h3 id="math_basic">数学基础初级</h3>
