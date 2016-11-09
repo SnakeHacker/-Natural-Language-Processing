@@ -25,7 +25,7 @@
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
 [概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
 矩阵论 | 暂无 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无 
-[自然语言处理初级1](https://suclass.stanford.edu/courses/Engineering/CS224N/Fall2015/about)| |[Speech and Language Processing](https://www.amazon.de/o/ASIN/0131873210/) | [链接](http://www.stanford.edu/class/cs224n/syllabus.shtml)
+[自然语言处理初级1](https://suclass.stanford.edu/courses/Engineering/CS224N/Fall2015/about)| Stanford |[Speech and Language Processing](https://www.amazon.de/o/ASIN/0131873210/) | [链接](http://www.stanford.edu/class/cs224n/syllabus.shtml)
 [自然语言处理初级2](http://www.cs.columbia.edu/~cs4705/)| Columbia | 暂无 |  [链接](http://www.cs.columbia.edu/~cs4705/)
 [深度学习用于自然语言处理](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_&index=1)| Stanford |暂无 |[链接](http://cs224d.stanford.edu/syllabus.html)
 Python程序语言设计| 暂无 | 暂无 | 暂无
@@ -54,7 +54,7 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 ###<h3 id="nlp_basic">自然语言处理学习初级</h3>
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-[自然语言处理初级1](https://suclass.stanford.edu/courses/Engineering/CS224N/Fall2015/about)| |[Speech and Language Processing](https://www.amazon.de/o/ASIN/0131873210/) | [链接](http://www.stanford.edu/class/cs224n/syllabus.shtml)
+[自然语言处理初级1](https://suclass.stanford.edu/courses/Engineering/CS224N/Fall2015/about)| Stanford |[Speech and Language Processing](https://www.amazon.de/o/ASIN/0131873210/) | [链接](http://www.stanford.edu/class/cs224n/syllabus.shtml)
 [自然语言处理初级2](http://www.cs.columbia.edu/~cs4705/)| Columbia | 暂无 |  [链接](http://www.cs.columbia.edu/~cs4705/)
 
 ###<h3 id="nlp_median">自然语言处理学习中级</h3>
