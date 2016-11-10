@@ -67,7 +67,7 @@ Python程序语言设计| [链接](http://cs231n.github.io/python-numpy-tutorial
 ##<h3 id="special_learning">机器学习专项领域学习</h3>
 如果您已经完成了上述的所有科目，恭喜您已经拥有了十分扎实的自然语言处理基础了，可以较为顺利的进入下面某一专项领域进行较为深入研究。
 
-- [机器翻译](https://github.com/dayeren/Deep-Learning)
+- [机器翻译]
 - 其他(尚未完善)
 
 
